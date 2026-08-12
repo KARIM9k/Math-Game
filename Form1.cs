@@ -69,6 +69,7 @@ namespace Math_Game
         ///////////////////////////////////////////////////////////////////////
         void ChooseOperations()
         {
+            GameInfo.Operation = enOperation.enNone;
             string sOperations = "";
             if (chkAddition.Checked)
             {
@@ -151,7 +152,7 @@ namespace Math_Game
             GameInfo.NumberOfRounds = 1;
             GameInfo.Operation = enOperation.enNone;
             GameInfo.QuestionsType = enQuestionsType.enMultipleChoice;
-            GameInfo.TimeLimit = 0;
+            GameInfo.TimeLimit = 5;
             rbEasy.Checked = false;
             rbMedium.Checked = false;
             rbHard.Checked = false;

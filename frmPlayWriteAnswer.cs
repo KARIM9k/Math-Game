@@ -159,6 +159,7 @@ namespace Math_Game
                 if (!int.TryParse(txtAnswer.Text, out int userAnswer))
                 {
                     MessageBox.Show("Please enter a valid number!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    timer1.Start();
                     return;
                 }
                 if (userAnswer == Equation.Answer)
