@@ -12,3 +12,4 @@ A desktop Windows Forms mathematical quiz game built with C# and .NET Framework.
 # 🛠️ Built With
 - C#
 - .NET Framework / WinForms
+<img width="1038" height="570" alt="image" src="https://github.com/user-attachments/assets/f4db9e6f-c0fd-47c1-8a37-0a1b7eada472" />
