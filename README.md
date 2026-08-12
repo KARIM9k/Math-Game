@@ -14,4 +14,7 @@ A desktop Windows Forms mathematical quiz game built with C# and .NET Framework.
 - .NET Framework / WinForms
 
 # 📷 Screenshots
-<img width="1038" height="570" alt="image" src="https://github.com/user-attachments/assets/f4db9e6f-c0fd-47c1-8a37-0a1b7eada472" />
+- <img width="1029" height="558" alt="image" src="https://github.com/user-attachments/assets/cbc887d8-2fae-413b-a871-f0c30a75ebf5" />
+- <img width="861" height="531" alt="image" src="https://github.com/user-attachments/assets/fd876f64-58d8-4245-adce-660937afd42f" />
+- <img width="853" height="511" alt="image" src="https://github.com/user-attachments/assets/84d04e8b-3750-4489-8285-7b17dee7093d" />
+- <img width="837" height="508" alt="image" src="https://github.com/user-attachments/assets/8d0d200d-5f2f-477d-a9ec-b8471b2375ba" />
